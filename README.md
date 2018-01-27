@@ -1,4 +1,4 @@
-# sustAdmissionHelpline
+# SUST Admission Helpline
 A Simple Laravel(5.5) web application that help students during University admission time
 
 #	How to host the project.
