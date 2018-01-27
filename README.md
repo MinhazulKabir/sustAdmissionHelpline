@@ -69,7 +69,7 @@ Then run the project again by “php artisan serve” command.
 Then run the project again by “php artisan serve” command.
 
 
-Developer Document:
+# Developer Document:
 
 	Using Software and framework: 
 
@@ -90,7 +90,7 @@ Developer Document:
 
 
 
-User Document
+# User Document
 
 Transport: Select your starting point and ending point. Hit enter button. Then, you will find the route in google map.
 
@@ -104,6 +104,6 @@ Restaurant: You can find your expected association. If you don’t find , then y
 
 
 
-License:
+# License:
 
 This App is not for only SUST you may use it in your education institution. Please use and re-use however you want.
