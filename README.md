@@ -1,6 +1,7 @@
 # sustAdmissionHelpline
 A Simple Laravel(5.5) web application that help students during University admission time
-4.	How to host the project.
+
+#	How to host the project.
 
 •	 Install the xamp from these link:   https://www.apachefriends.org/download.html
 
