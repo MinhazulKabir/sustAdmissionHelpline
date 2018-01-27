@@ -1,0 +1,61 @@
+    /*!
+     * Start Bootstrap - Shop Homepage (http://startbootstrap.com/)
+     * Copyright 2013-2016 Start Bootstrap
+     * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+     */
+    .slide-image {
+        width: 100%;
+    }
+
+    .carousel-holder {
+        margin-bottom: 30px;
+    }
+
+    .carousel-control,
+    .item {
+        border-radius: 4px;
+    }
+	.caption {
+        height: 330px;
+	overflow: hidden; }
+	
+	.transportation {
+    background-image: url("https://www.gajotres.net/wp-content/uploads/2015/07/ionic-geolocation-google-maps.jpg");	
+    
+    }
+	.association {
+    background-image: url("https://ak1.picdn.net/shutterstock/videos/15644791/thumb/1.jpg");
+		}
+	.hotel{
+    background-image: url("http://media.moddb.com/images/mods/1/24/23980/2013-10-20_00003.1.jpg");}
+	.restaurant {
+    background-image: url("https://www.omnihotels.com/-/media/images/hotels/bospar/restaurants/bospar-omni-parker-house-parkers-restaurant-1170.jpg");}
+	.guide {
+    background-image: url("http://images.unadonna.it/2015/05/ThinkstockPhotos-163155619.jpg");}
+	
+    .caption h4 {
+        white-space: nowrap;
+    }
+
+    .thumbnail img {
+        width: 100%;
+    }
+
+    .ratings {
+        padding-right: 10px;
+        padding-left: 10px;
+        color: #d17581;
+    }
+
+    .thumbnail {
+        padding: 0;
+    }
+
+    .thumbnail .caption-full {
+        padding: 9px;
+        color: #333;
+    }
+
+    footer {
+        margin: 10px 0;
+    }
